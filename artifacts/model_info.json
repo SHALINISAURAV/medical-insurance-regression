@@ -1,0 +1,12 @@
+{
+    "best_model": "Gradient Boosting",
+    "features": [
+        "age",
+        "sex",
+        "bmi",
+        "children",
+        "smoker",
+        "region"
+    ],
+    "target": "charges"
+}
